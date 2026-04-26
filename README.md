@@ -3,5 +3,5 @@ Appendix for "A Gaussian Mixture Morphology Prior-Augmented Deep Learning Model 
 
 Part I. Data availability
 
-Part II. Supplemental Tables\\
+Part II. Supplemental Tables
 Table 1. Experimental hyperparameter settings.
